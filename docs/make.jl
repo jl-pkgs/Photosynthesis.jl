@@ -10,5 +10,5 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/rafaqz/Photosynthesis.jl.git",
+    repo = "github.com/jl-pkgs/Photosynthesis.jl.git",
 )
